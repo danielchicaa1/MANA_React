@@ -1,0 +1,24 @@
+.bannerTienda{
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/music-8bca7.appspot.com/o/bannerTienda.webp?alt=media&token=8545eb1a-2cfa-4e54-b993-c744400846dd");
+    background-position: top center;
+    background-size: cover;
+    padding:25%;
+    background-attachment: fixed;
+    
+    
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    margin-top:30px;
+    margin-bottom:30px;
+}
+
+.camiseta1{
+    margin-right: 10px;
+}
+
+.camiseta2{
+    margin-left: 10px;
+}

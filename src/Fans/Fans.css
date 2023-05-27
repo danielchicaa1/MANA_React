@@ -1,0 +1,13 @@
+.form{
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/music-8bca7.appspot.com/o/BannerForm.jpg?alt=media&token=d15b279a-00dd-46fc-ad15-31fa90d0cb96");
+    background-attachment: fixed;
+    background-position:top-center ;
+    background-size: cover;
+    padding: 25%;
+    z-index: -1;
+    opacity: 1.0;
+    text-align: center;
+    color: white;
+    font-size: larger;
+    font-weight: 500;
+}

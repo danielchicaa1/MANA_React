@@ -1,0 +1,18 @@
+.banner{
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/music-8bca7.appspot.com/o/home-7.jpg?alt=media&token=2de50f92-d53b-467b-ae6a-2c2238930ead");
+    background-position: top center;
+    background-size: cover;
+    padding:25%;
+    background-attachment: fixed;
+}
+
+.banner2{
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/music-8bca7.appspot.com/o/Mana2.jpg?alt=media&token=84b7ef1d-ede1-45cd-9c03-c88b085bd4d4");
+    background-position: top center;
+    background-size: cover;
+    padding:25%;
+    background-attachment: fixed;
+    text-align: center;
+    color: #fff;
+    
+}
