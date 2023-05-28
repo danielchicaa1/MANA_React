@@ -1,0 +1,8 @@
+
+.fondo{
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/music-8bca7.appspot.com/o/mana-2.webp?alt=media&token=51df5044-e9f1-4cc6-81ec-20d146e74048");
+    background-position: top center;
+    background-size: cover;
+    padding:25%;
+    background-attachment: fixed;
+}
