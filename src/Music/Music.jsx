@@ -49,10 +49,9 @@ export function Music() {
                                                       <div className="col">
                                                             <div className="card bg-dark border-info h-100 shadow p-3">
                                                             <h2 className="text-center text-white ">{cancion.name}</h2>
-                                                            <h3 className=" text-center text-white">Popularidad:<br></br>{cancion.popularity}</h3>
                                                             <img src={cancion.album.images[1].url} alt="" />
-                                                            <audio controls  src={cancion.preview_url}></audio>
-                                                            <p className="text-white">Album:</p>
+                                                            <audio className="w-100 my-2" controls  src={cancion.preview_url}></audio>
+                                                            <h3 className=" text-center text-white">Popularidad:<br></br>{cancion.popularity}</h3>
                                                             </div>
                                                             
 
