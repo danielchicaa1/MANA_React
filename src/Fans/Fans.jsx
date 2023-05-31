@@ -3,6 +3,7 @@ import '../shared/Footer/Footer.css'
 import { Footer } from "../shared/Footer/Footer"
 import React from "react";
 import '../Fans/Fans.css'
+import { Preguntas } from '../Preguntas/Preguntas';
 
 
 export function Fans() {
@@ -55,7 +56,15 @@ export function Fans() {
                         <button class="btn btn-primary" type="submit">Submit form</button>
                     </div>
                 </form>
+                <br />
+                <div className='text-white'>
+                <section>
+                    <Preguntas></Preguntas>
+                </section>
             </div>
+            </div>
+
+            
 
             <div className="footer">
                 <section className="text-center">
